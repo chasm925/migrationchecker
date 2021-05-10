@@ -1,0 +1,9 @@
+{
+    "server_name": "localhost",
+    "instance_name": "SQLSERVER",
+    "port": 1433,
+    "db_name": "mydb",
+    "user": "",
+    "password": "",
+    "mode": "windows"
+}
